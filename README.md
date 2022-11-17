@@ -1,4 +1,4 @@
-Chrome Extension: Remove Amazon and Aliexpress Affiliate Links
+Chrome Erweiterung: Amazon und Aliexpress Affiliate Links entfernen
 =============================
 
-Chrome extension to remove Amazon and Aliexpress affiliate links. For those times when you don't want to reward leeches for their lack of effort.
+Chrome-Erweiterung zum Entfernen von Amazon- und Aliexpress-Affiliate-Links. Für die Momente, in denen Sie Schmarotzer nicht für ihre mangelnden Bemühungen belohnen wollen.
